@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:4:5-68
+	android:name
+		ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:4:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:5:5-74
+	android:name
+		ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:5:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:6:22-63
+application
+ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:8:5-28:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.android\build-cache\b574b27179a98f9eabcf507fe7641b32a8cc6748\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\enrys\.android\build-cache\f7d9797cd4e9b7f891796649e068765079af3858\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\enrys\.android\build-cache\51da8f2871b47a921f75ccaae8ed6edca05e993b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\enrys\.android\build-cache\8275286c9f8cb224aa80a062f3f55eb69cd1aefd\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\enrys\.android\build-cache\45972fe75ddce0fe7c6a188adbd2d5c81d6c94f8\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\enrys\.android\build-cache\0fa8bc67f9b1981024ffba49ffb692e8ae7f35b8\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\enrys\.android\build-cache\2a051ac2bd25c960abd1497e469b5e4de0518be4\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\enrys\.android\build-cache\f2e9f74c64ba5f5868d74fc90efde991e1ead370\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\enrys\.android\build-cache\0d5eebb1eeb64a423998939381955eb53aeb3654\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.enrys.bluetoothcontroller.MainActivity
+ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:screenOrientation
+		ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:14:49-85
+	android:name
+		ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:16:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.enrys.bluetoothcontroller.DeviceList
+ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:23:9-27:24
+	android:label
+		ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:25:13-39
+	android:theme
+		ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml:24:13-39
+uses-sdk
+INJECTED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.android\build-cache\b574b27179a98f9eabcf507fe7641b32a8cc6748\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\enrys\.android\build-cache\f7d9797cd4e9b7f891796649e068765079af3858\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\enrys\.android\build-cache\51da8f2871b47a921f75ccaae8ed6edca05e993b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\enrys\.android\build-cache\8275286c9f8cb224aa80a062f3f55eb69cd1aefd\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\enrys\.android\build-cache\45972fe75ddce0fe7c6a188adbd2d5c81d6c94f8\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\enrys\.android\build-cache\0fa8bc67f9b1981024ffba49ffb692e8ae7f35b8\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\enrys\.android\build-cache\2a051ac2bd25c960abd1497e469b5e4de0518be4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\enrys\.android\build-cache\f2e9f74c64ba5f5868d74fc90efde991e1ead370\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\enrys\.android\build-cache\0d5eebb1eeb64a423998939381955eb53aeb3654\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.android\build-cache\b574b27179a98f9eabcf507fe7641b32a8cc6748\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\src\main\AndroidManifest.xml

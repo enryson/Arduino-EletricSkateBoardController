@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\enrys\.android\build-cache\8275286c9f8cb224aa80a062f3f55eb69cd1aefd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\build\intermediates\pre-dexed\debug\classes_1585692421e941d848db9d74d046f85299a8fbd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\enrys\.android\build-cache\f2e9f74c64ba5f5868d74fc90efde991e1ead370\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\build\intermediates\pre-dexed\debug\classes_51ec3ccd76fcbc5c07c36cd720a9723a221bd706.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\enrys\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_d0c0443c42a93c7b44e3a23a445db681fbecab8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\enrys\.android\build-cache\b574b27179a98f9eabcf507fe7641b32a8cc6748\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\build\intermediates\pre-dexed\debug\classes_1a318b444a3c2059f69b8169d31403c71c001e03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\enrys\.android\build-cache\51da8f2871b47a921f75ccaae8ed6edca05e993b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\build\intermediates\pre-dexed\debug\classes_5fc8f6fee5ebb3896cdb9aae6075ed30ed1df4fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\enrys\.android\build-cache\0fa8bc67f9b1981024ffba49ffb692e8ae7f35b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\build\intermediates\pre-dexed\debug\classes_72ed26179ebdd8d9b1dfd2a823a7718847e8967e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\enrys\.android\build-cache\f7d9797cd4e9b7f891796649e068765079af3858\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\build\intermediates\pre-dexed\debug\classes_ec97bb26515cb872758ba4619c3f7ac5c8e1dbca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\enrys\.android\build-cache\0d5eebb1eeb64a423998939381955eb53aeb3654\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\build\intermediates\pre-dexed\debug\classes_16218a1b0cb6162292cbc3c278d6b21f1a30e7bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\enrys\.android\build-cache\45972fe75ddce0fe7c6a188adbd2d5c81d6c94f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\build\intermediates\pre-dexed\debug\classes_98bda3d915debb82b5991a7472f5277d843c70dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\enrys\.android\build-cache\2a051ac2bd25c960abd1497e469b5e4de0518be4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\enrys\Documents\Android\BluetoothController2\BluetoothController\app\build\intermediates\pre-dexed\debug\classes_6505e5ee87dc6577f6bc18a059e9bf6765a9363b.jar" />
+    </item>
+
+</items>
