@@ -13,7 +13,6 @@ Links para as polias e correa dentada.(Nesses liks pode-se baixar o arquivo CAD 
 * Polia 14 dentes:http://shop.sdp-si.com/catalog/product/?id=A%206A25M014DF0906
 * Polia 36 dentes:http://shop.sdp-si.com/catalog/product/?id=A%206A25-036NF0910
 
-lorran
 
 Diagrama placa
 https://github.com/enryson/EletricSkateBoardController/blob/master/Projeto/Diagrama1.PNG
@@ -26,5 +25,3 @@ Projeto feito com base no projeto de VLAD
 creditos e projeto original
 
 http://www.instructables.com/id/Electric-Skateboard-v20/?ALLSTEPS
-
-Marcio
