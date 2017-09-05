@@ -78,7 +78,8 @@ void loop() {
 
 static void getv() {
   float v = (analogRead(5) * vPow) / 1023.0;
-    float v2 = v / (r2 / (r1 + r2));    
+    float v2 = v / (r2 / (r1 + r2));   
+    //int v3 = v2*100;
     mySerial.println("{");
     mySerial.println(v2);
     mySerial.println("v");
