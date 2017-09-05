@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Volumes\\W10\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Users\\enryson\\.android\\build-cache\\77392ddf67a76fc7169397bfaf3e26795d98a0a8\\output\\res\\values\\values.xml",
+                    "file": "/home/enryson/.android/build-cache/089f289c3ce1bf87bbabe6fee5dbc9770c59c47b/output/res/values/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Volumes\\W10\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\C:\\Users\\enrys\\Documents\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -35,7 +35,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Volumes\\W10\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\C:\\Users\\enrys\\.android\\build-cache\\75f504637e92e169059dd95aab054d3c4e869aa6\\output\\res\\values\\values.xml",
+                    "file": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\14cf1342172b77424725e6edca7fdf32d24b7bb2\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -59,7 +59,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Users\\enrys\\.android\\build-cache\\063ecda453bfe34901d1e221aadf27529565b20a\\output\\res\\values\\values.xml",
+                    "file": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\a5b36b8896baef05abdf917ea1b6d8814e0b6fa9\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

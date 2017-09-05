@@ -11,11 +11,14 @@
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
     <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:screenOrientation="portrait"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity
@@ -28,14 +31,18 @@
             </intent-filter>
         </activity>
         <activity
+            android:name="com.example.enrys.bluetoothcontroller.Settings"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
             android:name="com.example.enrys.bluetoothcontroller.DeviceList"
-            android:label="DeviceList"
-            android:theme="@android:style/Theme.Dialog" >
+            android:label="DeviceList" >
         </activity>
 
-        <service
-            android:name="com.android.tools.fd.runtime.InstantRunService"
-            android:exported="true" />
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.example.enrys.bluetoothcontroller.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
     </application>
 
 </manifest>

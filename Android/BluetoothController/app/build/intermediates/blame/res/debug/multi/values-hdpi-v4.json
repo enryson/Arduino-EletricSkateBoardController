@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Volumes\\W10\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "C:\\Users\\enryson\\.android\\build-cache\\0160e4366e1c5e29fc95a3c37e9ca8b47e3b3d28\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Volumes\\W10\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\C:\\Users\\enrys\\Documents\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -38,7 +38,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "C:\\Volumes\\W10\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\C:\\Users\\enrys\\.android\\build-cache\\5852d2e4829deea8b2ed66dbc4e5d3320da57503\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -52,7 +52,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -64,7 +64,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "C:\\Users\\enrys\\.android\\build-cache\\b574b27179a98f9eabcf507fe7641b32a8cc6748\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
