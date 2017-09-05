@@ -1,10 +1,10 @@
-#include <Servo.h>
+//Skate
+#include <PWMServo.h>
 #include <SoftwareSerial.h>
 #include <Arduino.h>
-
 //SoftwareSerial mySerial(2, 3);//Carrinho
 SoftwareSerial mySerial(6, 5); 
-Servo myservo;  
+PWMServo myservo;  
 
 String inString = "";
 
@@ -23,47 +23,37 @@ double b = 85; //Braking
 double n = 90; //Neutral
 double m = 120; //Accelerate
 
+#define ledFarol 03
+#define ledfreio 10
+
 void setup() {
-  pinMode(13, OUTPUT);
+  pinMode(ledFarol, OUTPUT);
+  pinMode(ledfreio, OUTPUT);
   //myservo.attach(8);//Carrinho
   myservo.attach(9);
   mySerial.begin(9600);
-  digitalWrite(13, LOW);
   Serial.begin(9600);
-  myservo.write(30);
+  myservo.write(30);  
+  digitalWrite(ledFarol, HIGH);
+  digitalWrite(ledfreio, LOW);
 }
 
 void loop() {
   
   if (mySerial.available() > 0) {
-    int inChar = mySerial.read();
-    
+    int inChar = mySerial.read();    
     if (isDigit(inChar)) {
-      //Serial.print("inChar");
-      //Serial.println(inChar);
-      
-      
       inString += (char)inChar;
-      
-      //Serial.print("inChar ");
-      //Serial.println(inChar);
-      
-      //Serial.print("inString");
-      //Serial.println(inString); 
-    }
-    
+    }    
     if (inChar == 'n') {
-      //Serial.println(inChar);
-      //Serial.println(inString);
-      
       int x = inString.toInt();
-       
-      if (x <= 180){
-        //Serial.print("PULSO DO MOTOR = ");
-        //Serial.println(x);
-        myservo.write(x); 
-        
-      }
+      digitalWrite(ledfreio, LOW);
+      if (x <= 180){        
+        myservo.write(x);
+        if(x > 90){
+          digitalWrite(ledfreio, HIGH);
+          }      
+        }      
       inString = "";
     }
     if (inChar == 'm') {
@@ -77,14 +67,20 @@ void loop() {
       digitalWrite(13, HIGH);
       startTime = millis();
     }
-  }
-  
+    if (inChar == 'L') {
+      digitalWrite(ledFarol, HIGH);
+    }
+    if (inChar == 'O') {
+      digitalWrite(ledFarol, LOW);
+    }
+  }  
 }
 
 static void getv() {
   float v = (analogRead(5) * vPow) / 1023.0;
-    float v2 = v / (r2 / (r1 + r2));
-    mySerial.print(v2);
+    float v2 = v / (r2 / (r1 + r2));    
+    mySerial.println("{");
+    mySerial.println(v2);
     mySerial.println("v");
 }
 
