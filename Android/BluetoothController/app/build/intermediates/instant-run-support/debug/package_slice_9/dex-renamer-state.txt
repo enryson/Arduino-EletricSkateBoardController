@@ -1,4 +1,0 @@
-#Sun Sep 03 15:53:35 BRT 2017
-base.0=/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
-renamed.0=classes.dex
-file.0=/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex
