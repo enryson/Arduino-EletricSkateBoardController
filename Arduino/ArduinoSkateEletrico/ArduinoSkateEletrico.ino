@@ -2,21 +2,17 @@
 #include <PWMServo.h>
 #include <SoftwareSerial.h>
 #include <Arduino.h>
-
+//Setuo Ports
 SoftwareSerial mySerial(6, 5); 
 PWMServo myservo;  
 
-String inString = "";
-
-unsigned long startTime;
-unsigned long otherTime;
-
-int prev = 150;
 ///Resistors
 float vPow = 5;
 float r1 = 47000;
 float r2 = 10000;
 
+////////////
+String inString = "";
 int voltcheck = 0;
 
 ///LEDS
@@ -46,12 +42,13 @@ void loop() {
     //Recilver pulse to the motor
     if (inChar == 'n') {
       int x = inString.toInt();
-      digitalWrite(ledBreak, LOW);
+      digitalWrite(ledBreak, LOW); //LedON
+      //Make motor run
       if (x <= 180){        
         myservo.write(x);
         if(x > 90){
-          digitalWrite(ledBreak, HIGH);
-          }      
+          digitalWrite(ledBreak, HIGH); //LedOff
+          }
         }      
       inString = "";
     }
@@ -64,10 +61,7 @@ void loop() {
       else {
         voltcheck = voltcheck + 1;
       }
-      digitalWrite(13, HIGH);
-      startTime = millis();
     }
-
     //Control Front Led
     if (inChar == 'L') {
       digitalWrite(ledFront, HIGH);
