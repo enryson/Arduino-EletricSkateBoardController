@@ -8,6 +8,7 @@ import android.bluetooth.BluetoothSocket;
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
+import android.content.res.ColorStateList;
 import android.graphics.Color;
 import android.graphics.PorterDuff;
 import android.graphics.Typeface;
@@ -15,6 +16,8 @@ import android.graphics.drawable.Drawable;
 import android.os.Handler;
 import android.os.Message;
 import android.os.Vibrator;
+import android.support.v4.content.ContextCompat;
+import android.support.v4.content.res.ResourcesCompat;
 import android.support.v4.media.TransportMediator;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -49,10 +52,9 @@ import static android.support.v7.widget.AppCompatDrawableManager.get;
 
 public class MainActivity extends Settings {
     ImageButton settingsbutton,ImgLedOn,conectionBtLogo;
-    ProgressBar progressBar2;
     SeekBar  mySeekBar;
-    TextView Velocimetro,textkmh;
-
+    TextView Velocimetro,textkmh,textDebug;
+    public ProgressBar progressBar;
     BluetoothAdapter mBluetoothAdapter = null;
     BluetoothDevice mBluetoothDevice = null;
     BluetoothSocket mBluetoothSocket = null;
@@ -70,6 +72,8 @@ public class MainActivity extends Settings {
     private boolean registered=false;
 
 
+
+
     private static String MAC = null;
 
 
@@ -77,7 +81,6 @@ public class MainActivity extends Settings {
     StringBuilder bluetoothdata = new StringBuilder();
 
 
-    //final ProgressBar progressBar = (ProgressBar) findViewById(R.id.progressBar);
 
     UUID My_UUID = UUID.fromString("00001101-0000-1000-8000-00805f9b34fb");
 
@@ -118,28 +121,28 @@ public class MainActivity extends Settings {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-
         super.onCreate(savedInstanceState);
         getSupportActionBar().setDisplayOptions(ActionBar.DISPLAY_SHOW_CUSTOM);
         getSupportActionBar().setCustomView(R.layout.abs_layout);
         setContentView(R.layout.activity_main);
 
-        updateBoardName();
-
         conectionBtLogo = (ImageButton)findViewById(R.id.conectionBtLogo);
-        ImgLedOn = (ImageButton)findViewById(R.id.ImgLedOn) ;
-        Velocimetro = (TextView)findViewById(R.id.Velocimetro);
         settingsbutton = (ImageButton)findViewById(R.id.settingsbutton);
+        ImgLedOn = (ImageButton)findViewById(R.id.ImgLedOn) ;
+
+        Velocimetro = (TextView)findViewById(R.id.Velocimetro);
+        textDebug = (TextView)findViewById(R.id.textDebug);
+        textkmh = (TextView) findViewById(R.id.textkmh);
+
         mySeekBar = (SeekBar) findViewById(R.id.mSeekBar);
         mySeekBar.setMax(TransportMediator.KEYCODE_MEDIA_RECORD);
         mySeekBar.setProgress(60);
 
-        textkmh = (TextView) findViewById(R.id.textkmh);
-        Velocimetro = (TextView) findViewById(R.id.Velocimetro);
+        progressBar = (ProgressBar) findViewById(R.id.progressBar);
+
         Typeface typeface = Typeface.createFromAsset(getAssets(), "fonts/CODEBold.otf");
         Velocimetro.setTypeface(typeface);
-
-
+        updateBoardName();
 
         settingsbutton.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -149,13 +152,15 @@ public class MainActivity extends Settings {
         });
 
 
+
+
         mBluetoothAdapter = BluetoothAdapter.getDefaultAdapter();
         if (mBluetoothAdapter == null){
             Toast.makeText(getApplicationContext(), "dispositivo bluetooth nao encontrado",Toast.LENGTH_LONG).show();
 
         } else if (!mBluetoothAdapter.isEnabled()) {
             Intent enableBtIntent = new Intent(BluetoothAdapter.ACTION_REQUEST_ENABLE);
-            startActivityForResult(enableBtIntent, BT_ACTIVATE_REQUEST);
+            //startActivityForResult(enableBtIntent, BT_ACTIVATE_REQUEST);
         }
 
         //botao conexao bluetooth
@@ -178,8 +183,6 @@ public class MainActivity extends Settings {
                         Toast.makeText(getApplicationContext(), "Erro Desconectado : "+ erro, Toast.LENGTH_LONG).show();
                     }
                 }   else    {
-                   //Conect
-
                     Intent open_list = new Intent(MainActivity.this, DeviceList.class);
                     startActivityForResult(open_list, BT_CONNECT_REQUEST);
                 }
@@ -193,7 +196,6 @@ public class MainActivity extends Settings {
                 Vibrator v2 = (Vibrator)getSystemService(MainActivity.VIBRATOR_SERVICE);
                 v2.vibrate(80);
                 if (conection){
-
                     if(flag) {
                         connectedThread.write("L");
                         LedOff();
@@ -239,7 +241,20 @@ public class MainActivity extends Settings {
                         int informationLeght = completeData.length();
                         if(bluetoothdata.charAt(0)=='{'){
                             String finalData = bluetoothdata.substring(1,informationLeght);
-                            textkmh.setText("Voltage: " + String.valueOf(finalData));
+
+                            double minVolt = 19.2;
+                            double maxVolt = 25.2;
+                            double volt = (Double.parseDouble(finalData)-minVolt);
+                            int percentage = (int) ((volt*100)/(maxVolt-minVolt));
+
+                            textDebug.setText("Voltage : "+ finalData + " Percentage : "+ String.valueOf(percentage));
+                            if (percentage > 20)    {
+                                progressBar.setProgressDrawable(ContextCompat.getDrawable(getApplicationContext(), R.drawable.custom_circular_progressbar));
+                                progressBar.setProgress(percentage);    }
+                            else if (percentage < 20)    {
+                                progressBar.setProgressDrawable(ContextCompat.getDrawable(getApplicationContext(), R.drawable.custom_circular_progressbar_red));
+                                progressBar.setProgress(percentage);    }
+
                         }
                     }
                     bluetoothdata.delete(0, bluetoothdata.length());
@@ -264,10 +279,7 @@ public class MainActivity extends Settings {
                 });
             }
         };
-        timer.schedule(doAsynchronousTask, 0, 200);
-
-
-
+        timer.schedule(doAsynchronousTask, 0, 400);
 
 
     }

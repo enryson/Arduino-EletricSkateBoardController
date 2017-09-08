@@ -1,27 +1,27 @@
 [
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_ratingbar_material.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
         "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_ratingbar_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_progressbar.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\seekbar_progressbar.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_icon.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\settings_icon.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/ledon.png",
@@ -32,88 +32,80 @@
         "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
         "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\asset.png",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\asset.png"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btdisconected.png",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\btdisconected.png"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
         "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progressbar.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\custom_progressbar.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\settings.png"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/asset.png",
         "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/src/main/res/drawable/asset.png"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\notification_bg.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/custom_circular_progressbar.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/src/main/res/drawable/custom_circular_progressbar.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_vector_test.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progressbar.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\custom_progressbar.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
         "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
         "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_ic_clear_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
         "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\settings.png"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\notification_icon_background.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
@@ -124,156 +116,200 @@
         "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/src/main/res/drawable/btdisconected.png"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
         "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
         "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\notification_bg_low.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ledoff.png",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\ledoff.png"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ledon.png",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\ledon.png"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_icon.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\settings_icon.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_btn_default_mtrl_shape.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_icon.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\settings_icon.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btconected.png",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\btconected.png"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\settings.png"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ledoff.png",
         "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\ledoff.png"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ledon.png",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\ledon.png"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ledon.png",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\ledon.png"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_progressbar.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\seekbar_progressbar.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\asset.png",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\asset.png"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settingsdark.png",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\settingsdark.png"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/custom_circular_shape.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/src/main/res/drawable/custom_circular_shape.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_edit_text_material.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
         "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
-        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_vector_test.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/custom_circular_progressbar_red.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/src/main/res/drawable/custom_circular_progressbar_red.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progressbar.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\custom_progressbar.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_progressbar.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\seekbar_progressbar.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
@@ -284,48 +320,16 @@
         "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/notification_icon_background.xml"
     },
     {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_thumb.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\custom_thumb.xml"
+    },
+    {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
         "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\notification_bg_low.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_thumb.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\custom_thumb.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btdisconected.png",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\btdisconected.png"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/btconected.png",
@@ -336,8 +340,8 @@
         "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/settingsdark.png",
@@ -348,6 +352,14 @@
         "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_progressbar.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\seekbar_progressbar.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/settings.png",
         "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/src/main/res/drawable/settings.png"
     },
@@ -356,20 +368,12 @@
         "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/notification_bg_low.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\notification_icon_background.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
@@ -380,16 +384,8 @@
         "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
@@ -400,188 +396,204 @@
         "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/src/main/res/drawable/seekbar_progressbar.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btconected.png",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\btconected.png"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
         "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_thumb.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\custom_thumb.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ledoff.png",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\ledoff.png"
+    },
+    {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
         "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
         "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settingsdark.png",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\settingsdark.png"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settingsdark.png",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\settingsdark.png"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
         "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\asset.png",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\asset.png"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/ledoff.png",
         "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/src/main/res/drawable/ledoff.png"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/custom_thumb.xml",
         "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/src/main/res/drawable/custom_thumb.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ledon.png",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\ledon.png"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\asset.png",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\asset.png"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_vector_test.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/custom_progressbar.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/src/main/res/drawable/custom_progressbar.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progressbar.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\custom_progressbar.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btdisconected.png",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\btdisconected.png"
-    },
-    {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
         "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/settings_icon.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/src/main/res/drawable/settings_icon.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/custom_progressbar.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/src/main/res/drawable/custom_progressbar.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\notification_bg.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings_icon.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\settings_icon.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/notification_tile_bg.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btdisconected.png",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\btdisconected.png"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_textfield_search_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btconected.png",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\btconected.png"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
         "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settingsdark.png",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\settingsdark.png"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/settings_icon.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/src/main/res/drawable/settings_icon.xml"
     },
     {
-        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_thumb.xml",
-        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\custom_thumb.xml"
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btconected.png",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\src\\main\\res\\drawable\\btconected.png"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/notification_tile_bg.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enryson\\.android\\build-cache\\b75cc9475e02d84370e657ed4d1c6d6d4b245c94\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\Documents\\Android\\BluetoothController2\\BluetoothController\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/C:\\Users\\enrys\\.android\\build-cache\\e72a5238c6e03f0fa4fc748764e426ab56c30453\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/enryson/.android/build-cache/e1099ce3672fa5cf4635cfb00083dc29f755a337/output/res/drawable/abc_cab_background_top_material.xml"
     },
     {
         "merged": "/home/enryson/Documents/Android/BluetoothController2/BluetoothController/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",

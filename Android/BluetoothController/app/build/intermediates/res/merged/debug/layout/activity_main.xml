@@ -12,87 +12,86 @@
     tools:context="com.example.enrys.bluetoothcontroller.MainActivity">
 
 
-    <RelativeLayout
+    <SeekBar
+        android:id="@+id/mSeekBar"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/relativeLayout">
+        android:paddingBottom="50dp"
+        android:paddingTop="50dp"
+        android:progressDrawable="@drawable/seekbar_progressbar"
+        android:rotation="270"
+        android:thumb="@drawable/custom_thumb"
+        android:layout_marginTop="95dp"
+        android:layout_below="@+id/textkmh"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
-        <ProgressBar
-            android:id="@+id/progressBar"
-            style="@android:style/Widget.DeviceDefault.Light.ProgressBar.Horizontal"
-            android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
-            android:max="100"
-            android:progress="50"
-            android:progressTint="@android:color/holo_green_dark" />
+    <TextView
+        android:id="@+id/textkmh"
+        android:layout_width="119dp"
+        android:layout_height="46dp"
+        android:layout_alignBottom="@+id/ImgLedOn"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:onClick="onToggleClicked"
+        android:text="Km/h"
+        android:textAlignment="center"
+        android:textColor="#ffff"
+        android:textSize="26sp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="-15dp" />
 
-        <TextView
-            android:id="@+id/Velocimetro"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_weight="0.13"
-            android:gravity="center"
-            android:text="00"
-            android:textColor="#ffff"
-            android:textSize="110sp"
-            app:layout_constraintTop_toTopOf="parent"
-            tools:layout_editor_absoluteX="8dp"
-            android:layout_marginTop="29dp"
-            android:layout_alignParentTop="true"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="180dp"
+        android:layout_height="200dp"
+        android:background="@drawable/custom_circular_shape"
+        android:indeterminate="false"
+        android:max="100"
+        android:progress="80"
+        android:progressDrawable="@drawable/custom_circular_progressbar"
+        tools:layout_editor_absoluteX="64dp"
+        tools:layout_editor_absoluteY="-15dp"
+        android:layout_alignBottom="@+id/Velocimetro"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp" />
 
-        <TextView
-            android:id="@+id/textkmh"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:gravity="center"
-            android:text="Km/h"
-            android:onClick="onToggleClicked"
-            android:textColor="#ffff"
-            android:textSize="25sp"
-            app:layout_constraintTop_toTopOf="@+id/Velocimetro"
-            tools:layout_editor_absoluteX="141dp"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:layout_marginBottom="34dp" />
+    <TextView
+        android:id="@+id/Velocimetro"
+        android:layout_width="131dp"
+        android:layout_height="155dp"
+        android:layout_alignTop="@+id/textkmh"
+        android:layout_centerHorizontal="true"
+        android:layout_weight="0.13"
+        android:gravity="center"
+        android:text="00"
+        android:textAlignment="viewEnd"
+        android:textColor="#ffff"
+        android:textSize="115sp"
+        tools:layout_editor_absoluteX="99dp"
+        tools:layout_editor_absoluteY="30dp" />
 
-        <ImageButton
-            android:id="@+id/ImgLedOn"
-            android:layout_width="60dp"
-            android:layout_height="60dp"
-            android:layout_alignParentEnd="true"
-            android:layout_alignParentRight="true"
-            android:layout_alignParentTop="true"
-            android:background="@drawable/ledoff"
-            tools:layout_editor_absoluteX="260dp"
-            tools:layout_editor_absoluteY="57dp" />
+    <ImageButton
+        android:id="@+id/ImgLedOn"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/ledoff"
+        tools:layout_editor_absoluteX="260dp"
+        tools:layout_editor_absoluteY="57dp" />
 
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_height="600px"
-            android:layout_alignParentBottom="true"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:layout_below="@+id/Velocimetro">
-
-            <SeekBar
-                android:id="@+id/mSeekBar"
-                android:layout_width="600dp"
-                android:layout_height="-10dp"
-                android:paddingBottom="50dp"
-                android:paddingTop="50dp"
-                android:progressDrawable="@drawable/seekbar_progressbar"
-                android:rotation="270"
-                android:thumb="@drawable/custom_thumb"
-                android:layout_alignParentTop="true"
-                android:layout_alignParentLeft="true"
-                android:layout_alignParentStart="true"
-                android:layout_alignParentBottom="true" />
-        </RelativeLayout>
-
-
-    </RelativeLayout>
+    <TextView
+        android:id="@+id/textDebug"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColor="#ffff"/>
 
 
 </RelativeLayout>
