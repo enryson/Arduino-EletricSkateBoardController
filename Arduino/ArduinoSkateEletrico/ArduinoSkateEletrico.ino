@@ -2,7 +2,7 @@
 #include <PWMServo.h>
 #include <SoftwareSerial.h>
 #include <Arduino.h>
-//SoftwareSerial mySerial(2, 3);//Carrinho
+
 SoftwareSerial mySerial(6, 5); 
 PWMServo myservo;  
 
@@ -12,50 +12,50 @@ unsigned long startTime;
 unsigned long otherTime;
 
 int prev = 150;
-
+///Resistors
 float vPow = 5;
 float r1 = 47000;
 float r2 = 10000;
 
 int voltcheck = 0;
 
-double b = 85; //Braking
-double n = 90; //Neutral
-double m = 120; //Accelerate
-
-#define ledFarol 03
-#define ledfreio 10
+///LEDS
+#define ledFront 03
+#define ledBreak 10
 
 void setup() {
-  pinMode(ledFarol, OUTPUT);
-  pinMode(ledfreio, OUTPUT);
-  //myservo.attach(8);//Carrinho
-  myservo.attach(9);
-  mySerial.begin(9600);
+  //Leds Lights
+  pinMode(ledFront, OUTPUT);
+  pinMode(ledBreak, OUTPUT);
+  /////////////
   Serial.begin(9600);
-  myservo.write(30);  
-  digitalWrite(ledFarol, HIGH);
-  digitalWrite(ledfreio, LOW);
+  myservo.attach(9);
+  myservo.write(30);
+  ///////////// 
+  digitalWrite(ledFront, HIGH);
+  digitalWrite(ledBreak, LOW);
 }
 
 void loop() {
-  
+  //ReadBlutooth data
   if (mySerial.available() > 0) {
     int inChar = mySerial.read();    
     if (isDigit(inChar)) {
       inString += (char)inChar;
-    }    
+    }
+    //Recilver pulse to the motor
     if (inChar == 'n') {
       int x = inString.toInt();
-      digitalWrite(ledfreio, LOW);
+      digitalWrite(ledBreak, LOW);
       if (x <= 180){        
         myservo.write(x);
         if(x > 90){
-          digitalWrite(ledfreio, HIGH);
+          digitalWrite(ledBreak, HIGH);
           }      
         }      
       inString = "";
     }
+    //Send Voltage to the APP
     if (inChar == 'm') {
       if (voltcheck > 10){
       getv();
@@ -67,19 +67,20 @@ void loop() {
       digitalWrite(13, HIGH);
       startTime = millis();
     }
+
+    //Control Front Led
     if (inChar == 'L') {
-      digitalWrite(ledFarol, HIGH);
+      digitalWrite(ledFront, HIGH);
     }
     if (inChar == 'O') {
-      digitalWrite(ledFarol, LOW);
+      digitalWrite(ledFront, LOW);
     }
   }  
 }
-
+//Get Voltage
 static void getv() {
   float v = (analogRead(5) * vPow) / 1023.0;
-    float v2 = v / (r2 / (r1 + r2));   
-    //int v3 = v2*100;
+    float v2 = v / (r2 / (r1 + r2));
     mySerial.println("{");
     mySerial.println(v2);
     mySerial.println("v");
