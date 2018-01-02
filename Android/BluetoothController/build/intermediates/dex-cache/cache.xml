@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\enryson\Documents\Android\BluetoothController2\BluetoothController\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\enryson\Documents\Android\BluetoothController2\BluetoothController\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ccf1340b07e3ee7f2d37fa8d6a4838cb33686d3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enryson\Documents\Android\BluetoothController2\BluetoothController\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="36fea638536f845382d4d265dd2c2c860d4ad17f">
+        <dex dex="C:\Users\enryson\Documents\Android\BluetoothController2\BluetoothController\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e619e9354bf95db311844818a69079c7e6235007\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enryson\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.1\constraint-layout-solver-1.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ad79631209e77b0a2730fc112b4cc0c66a95132">
+        <dex dex="C:\Users\enryson\Documents\Android\BluetoothController2\BluetoothController\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.1_ebc21efca0345ce0e34492fc14d2206853eb17ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\enryson\.android\build-cache\1af11ba1a90a4922e8c61ce19aa9e526389d9a19\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7113302c965566b66df46c6ca75ea301576114a5">
+        <dex dex="C:\Users\enryson\Documents\Android\BluetoothController2\BluetoothController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1af1afe2a22b568210581ac5f74d5fb5608cd0f4\classes.dex" />
+    </item>
+
+</items>
