@@ -1,5 +1,6 @@
 package com.example.enrys.bluetoothcontroller;
 
+import android.annotation.SuppressLint;
 import android.app.ActionBar;
 import android.app.Activity;
 import android.bluetooth.BluetoothAdapter;
@@ -100,6 +101,7 @@ public class MainActivity extends Settings {
     }
 
 
+    @SuppressLint("HandlerLeak")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -277,8 +279,8 @@ public class MainActivity extends Settings {
                         int informationLeght = completeData.length();
                         if(bluetoothdata.charAt(0)=='{'){
                             String finalData = bluetoothdata.substring(1,informationLeght);
-                            double minVolt = 10;
-                            double maxVolt = 12.2;
+                            double minVolt = 19.8;
+                            double maxVolt = 25.2;
                             double volt = (Double.parseDouble(finalData)-minVolt);
                             int percentage = (int) ((volt*100)/(maxVolt-minVolt));
                             progressBar.setProgress(percentage);

@@ -4,16 +4,16 @@ ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\B
 INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
 INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
 INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
-MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\a5fe69b1bf436474597999f240c3fd71\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\0cfb30b244243c34511a0f3a40d06854\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\2168efb1cbe24a3622f9ce82c6c6d527\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\422cc286d7cd95a3c45ff88edebf83d6\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:support-v4:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\0a7c72f0c0e25b9b2bca77397be3daee\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\337bce4ff3ad335c6e81851b46e5a45b\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\6076142384d17fa3118a2da9ea3cb8e4\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\46fbce20d397ec41f2f91ccc2c896cd7\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\120594486709fd6df6ed12b55f562b70\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\b15b05223e651e5c6ba0a43ab89cc25c\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\f584ba7c6520d2e8c72c397e944c4ba7\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\aa8291e9be9ec146e03724bcc3623035\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\e534b700456975c9d24af250f87de8f8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\e9a4d03f78bae45a85ddd927d10e030d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\91f76eaacd642140707025f6890c7959\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\f67a6bfceb65b1f500e79185f6e7298a\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\ec6623ff8f83b13d016ddad6ca353864\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\2bc99c8777b25df317d150a9d52d6f3f\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\ebd98b7868e001b3fc289514311407c2\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\d2b5aa66dac45664d2d9ad6c7ec6762b\AndroidManifest.xml:17:1-27:12
 INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
 INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
 INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
@@ -53,26 +53,26 @@ ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\B
 		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:8:22-77
 application
 ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:11:5-32:19
-MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\a5fe69b1bf436474597999f240c3fd71\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\a5fe69b1bf436474597999f240c3fd71\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\0cfb30b244243c34511a0f3a40d06854\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\0cfb30b244243c34511a0f3a40d06854\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\2168efb1cbe24a3622f9ce82c6c6d527\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\2168efb1cbe24a3622f9ce82c6c6d527\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\422cc286d7cd95a3c45ff88edebf83d6\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\422cc286d7cd95a3c45ff88edebf83d6\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-v4:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\0a7c72f0c0e25b9b2bca77397be3daee\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\0a7c72f0c0e25b9b2bca77397be3daee\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\337bce4ff3ad335c6e81851b46e5a45b\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\337bce4ff3ad335c6e81851b46e5a45b\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\6076142384d17fa3118a2da9ea3cb8e4\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\6076142384d17fa3118a2da9ea3cb8e4\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\46fbce20d397ec41f2f91ccc2c896cd7\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\46fbce20d397ec41f2f91ccc2c896cd7\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\120594486709fd6df6ed12b55f562b70\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\120594486709fd6df6ed12b55f562b70\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\b15b05223e651e5c6ba0a43ab89cc25c\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\b15b05223e651e5c6ba0a43ab89cc25c\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\f584ba7c6520d2e8c72c397e944c4ba7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\f584ba7c6520d2e8c72c397e944c4ba7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\aa8291e9be9ec146e03724bcc3623035\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\aa8291e9be9ec146e03724bcc3623035\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\e534b700456975c9d24af250f87de8f8\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\e534b700456975c9d24af250f87de8f8\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\e9a4d03f78bae45a85ddd927d10e030d\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\e9a4d03f78bae45a85ddd927d10e030d\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\91f76eaacd642140707025f6890c7959\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\91f76eaacd642140707025f6890c7959\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\f67a6bfceb65b1f500e79185f6e7298a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\f67a6bfceb65b1f500e79185f6e7298a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\ec6623ff8f83b13d016ddad6ca353864\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\ec6623ff8f83b13d016ddad6ca353864\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\2bc99c8777b25df317d150a9d52d6f3f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\2bc99c8777b25df317d150a9d52d6f3f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\ebd98b7868e001b3fc289514311407c2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\ebd98b7868e001b3fc289514311407c2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\d2b5aa66dac45664d2d9ad6c7ec6762b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\d2b5aa66dac45664d2d9ad6c7ec6762b\AndroidManifest.xml:25:5-20
 	android:screenOrientation
 		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:13:9-45
 	android:supportsRtl
@@ -117,30 +117,30 @@ uses-sdk
 INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\a5fe69b1bf436474597999f240c3fd71\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\a5fe69b1bf436474597999f240c3fd71\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\0cfb30b244243c34511a0f3a40d06854\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\0cfb30b244243c34511a0f3a40d06854\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\2168efb1cbe24a3622f9ce82c6c6d527\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\2168efb1cbe24a3622f9ce82c6c6d527\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\422cc286d7cd95a3c45ff88edebf83d6\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\422cc286d7cd95a3c45ff88edebf83d6\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-v4:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\0a7c72f0c0e25b9b2bca77397be3daee\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\0a7c72f0c0e25b9b2bca77397be3daee\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\337bce4ff3ad335c6e81851b46e5a45b\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\337bce4ff3ad335c6e81851b46e5a45b\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\6076142384d17fa3118a2da9ea3cb8e4\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\6076142384d17fa3118a2da9ea3cb8e4\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\46fbce20d397ec41f2f91ccc2c896cd7\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\46fbce20d397ec41f2f91ccc2c896cd7\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\120594486709fd6df6ed12b55f562b70\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\120594486709fd6df6ed12b55f562b70\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\b15b05223e651e5c6ba0a43ab89cc25c\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\b15b05223e651e5c6ba0a43ab89cc25c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\f584ba7c6520d2e8c72c397e944c4ba7\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\f584ba7c6520d2e8c72c397e944c4ba7\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\aa8291e9be9ec146e03724bcc3623035\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\aa8291e9be9ec146e03724bcc3623035\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\e534b700456975c9d24af250f87de8f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\e534b700456975c9d24af250f87de8f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\e9a4d03f78bae45a85ddd927d10e030d\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\e9a4d03f78bae45a85ddd927d10e030d\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\91f76eaacd642140707025f6890c7959\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\91f76eaacd642140707025f6890c7959\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\f67a6bfceb65b1f500e79185f6e7298a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\f67a6bfceb65b1f500e79185f6e7298a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\ec6623ff8f83b13d016ddad6ca353864\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\ec6623ff8f83b13d016ddad6ca353864\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\2bc99c8777b25df317d150a9d52d6f3f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\2bc99c8777b25df317d150a9d52d6f3f\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\ebd98b7868e001b3fc289514311407c2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\ebd98b7868e001b3fc289514311407c2\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\d2b5aa66dac45664d2d9ad6c7ec6762b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\d2b5aa66dac45664d2d9ad6c7ec6762b\AndroidManifest.xml:21:5-23:58
 INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\a5fe69b1bf436474597999f240c3fd71\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\f584ba7c6520d2e8c72c397e944c4ba7\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml

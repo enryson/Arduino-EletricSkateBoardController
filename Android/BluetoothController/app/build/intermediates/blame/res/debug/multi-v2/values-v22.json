@@ -36,7 +36,7 @@
             "outputFile": "C:\\Users\\enrys\\Documents\\GitHub\\EletricSkateBoardController\\Android\\BluetoothController\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\enrys\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\a5fe69b1bf436474597999f240c3fd71\\res\\values-v22\\values-v22.xml",
+                    "source": "C:\\Users\\enrys\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\f584ba7c6520d2e8c72c397e944c4ba7\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",
