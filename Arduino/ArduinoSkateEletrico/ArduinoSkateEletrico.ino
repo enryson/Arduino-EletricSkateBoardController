@@ -25,6 +25,7 @@ void setup() {
   pinMode(ledBreak, OUTPUT);
   /////////////
   Serial.begin(9600);
+  mySerial.begin(9600);
   myservo.attach(9);
   myservo.write(30);
   ///////////// 
@@ -35,16 +36,19 @@ void setup() {
 void loop() {
   //ReadBlutooth data
   if (mySerial.available() > 0) {
-    int inChar = mySerial.read();    
+    int inChar = mySerial.read();
+         //Serial.println("olá");
     if (isDigit(inChar)) {
       inString += (char)inChar;
+      
     }
-    //Recilver pulse to the motor
+    //Recilver pulse to the motor    
     if (inChar == 'n') {
       int x = inString.toInt();
       digitalWrite(ledBreak, LOW); //LedON
       //Make motor run
-      if (x <= 180){        
+      if (x <= 180){    
+           Serial.println(x);
         myservo.write(x);
         if(x > 90){
           digitalWrite(ledBreak, HIGH); //LedOff
