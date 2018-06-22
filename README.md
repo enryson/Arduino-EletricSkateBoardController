@@ -16,10 +16,10 @@ Links para as polias e correa dentada.(Nesses liks pode-se baixar o arquivo CAD 
 * Polia 36 dentes:http://shop.sdp-si.com/catalog/product/?id=A%206A25-036NF0910
 
 
-Diagrama placa bluetooth
+Diagrama do Controle
 ![alt text](https://raw.githubusercontent.com/enryson/EletricSkateBoardController/master/Projeto/RemoteBluetoothDiagram/RemoteBluetooth.PNG)
 
-Diagrama do Controle
+Diagrama placa bluetooth
 ![alt text](https://raw.githubusercontent.com/enryson/EletricSkateBoardController/master/Projeto/SkateBluetoothControllerDiagram/SkateBluetoothControllerDiagram.PNG)
 
 
