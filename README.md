@@ -17,10 +17,10 @@ Links para as polias e correa dentada.(Nesses liks pode-se baixar o arquivo CAD 
 
 
 Diagrama placa bluetooth
-https://raw.githubusercontent.com/enryson/EletricSkateBoardController/master/Projeto/RemoteBluetoothDiagram/RemoteBluetooth.PNG
+![alt text](https://raw.githubusercontent.com/enryson/EletricSkateBoardController/master/Projeto/RemoteBluetoothDiagram/RemoteBluetooth.PNG)
 
 Diagrama do Controle
-https://raw.githubusercontent.com/enryson/EletricSkateBoardController/master/Projeto/SkateBluetoothControllerDiagram/SkateBluetoothControllerDiagram.PNG
+![alt text](https://raw.githubusercontent.com/enryson/EletricSkateBoardController/master/Projeto/SkateBluetoothControllerDiagram/SkateBluetoothControllerDiagram.PNG)
 
 
 Projeto feito com base no projeto de VLAD
