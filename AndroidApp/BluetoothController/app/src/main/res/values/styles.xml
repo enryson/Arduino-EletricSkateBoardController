@@ -1,0 +1,14 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#1A1A1A</item>
+        <item name="colorPrimaryDark">#1A1A1A</item>
+        <item name="colorAccent">#1A1A1A</item>
+    </style>
+    <style name="MyEditText" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">#1A1A1A</item>
+        <item name="colorControlActivated">#4b4b4b</item>
+    </style>
+    <style name="AppTheme.WhiteAccent">
+        <item name="color">#FF2A14</item>
+    </style>
+</resources>
