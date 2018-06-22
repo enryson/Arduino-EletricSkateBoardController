@@ -1,12 +1,14 @@
 # EletricSkateBoardController
-Esse é um projeto para um controlador DIY de Skate Eletrico usando conexão bluetooth entre um arduino e um celular.
-O Objetivo é desenvolver um aplicativo para controlar pelo celular android.
+Esse é um projeto de um Skate Eletrico.
+Ele pode ser controlado usando um APP Android ou um controle DIY.
+
 
 Nesse projeto temos:
-* Esquemas da placa controladora
-* Projetos e desenhos
-* Arquivo arduino
-* Arquivo excel com uma calculadora completa do Skate
+* Diagrama das placas
+* Codigos das controladoras
+* Codigo do App Android
+* Calculadora do projeto 
+https://github.com/enryson/EletricSkateBoardController/blob/master/Skate%20Eletrico%20Project.xlsx?raw=true
 
 Links para as polias e correa dentada.(Nesses liks pode-se baixar o arquivo CAD dessas peças)
 * Correa:http://shop.sdp-si.com/catalog/product/?id=A%206R25M054090
@@ -14,11 +16,11 @@ Links para as polias e correa dentada.(Nesses liks pode-se baixar o arquivo CAD 
 * Polia 36 dentes:http://shop.sdp-si.com/catalog/product/?id=A%206A25-036NF0910
 
 
-Diagrama placa
-https://github.com/enryson/EletricSkateBoardController/blob/master/Projeto/Diagrama1.PNG
+Diagrama placa bluetooth
+https://raw.githubusercontent.com/enryson/EletricSkateBoardController/master/Projeto/RemoteBluetoothDiagram/RemoteBluetooth.PNG
 
-Software usado para desenho da placa:
-Fritzing
+Diagrama do Controle
+https://raw.githubusercontent.com/enryson/EletricSkateBoardController/master/Projeto/SkateBluetoothControllerDiagram/SkateBluetoothControllerDiagram.PNG
 
 
 Projeto feito com base no projeto de VLAD
