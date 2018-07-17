@@ -11,7 +11,7 @@
         android:thickness="3dp">
         <gradient
             android:centerY="0.5"
-            android:endColor="#73FB39"
+            android:endColor="#73fb39"
             android:startColor="#FF2A14"
             android:type="sweep"
             android:useLevel="false" />

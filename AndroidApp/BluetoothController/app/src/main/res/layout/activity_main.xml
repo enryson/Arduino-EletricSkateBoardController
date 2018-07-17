@@ -25,14 +25,18 @@
         android:paddingTop="50dp"
         android:rotation="270" />
 
+
     <ProgressBar
         android:id="@+id/progressBar"
-        style="@android:style/Widget.DeviceDefault.Light.ProgressBar.Horizontal"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="217dp"
+        android:layout_height="196dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="0dp"
         android:max="100"
-        android:progress="50"
-        android:progressTint="@android:color/holo_green_dark" />
+        android:progress="80"
+        android:progressDrawable="@drawable/custom_progressbar" />
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -43,31 +47,30 @@
             android:id="@+id/Velocimetro"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="48dp"
             android:layout_weight="0.13"
             android:gravity="center"
             android:text="00"
             android:textColor="#ffff"
             android:textSize="110sp"
             app:layout_constraintTop_toTopOf="parent"
-            tools:layout_editor_absoluteX="8dp"
-            android:layout_marginTop="29dp"
-            android:layout_alignParentTop="true"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
+            tools:layout_editor_absoluteX="8dp" />
 
         <TextView
             android:id="@+id/textkmh"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="35dp"
             android:gravity="center"
             android:text="Km/h"
             android:textColor="#ffff"
             android:textSize="25sp"
             app:layout_constraintTop_toTopOf="@+id/Velocimetro"
-            tools:layout_editor_absoluteX="141dp"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:layout_marginBottom="34dp" />
+            tools:layout_editor_absoluteX="141dp" />
 
         <ImageButton
             android:id="@+id/ImgLedOn"

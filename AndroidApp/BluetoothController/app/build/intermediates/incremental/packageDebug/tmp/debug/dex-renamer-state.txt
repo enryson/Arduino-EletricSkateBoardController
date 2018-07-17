@@ -1,4 +1,4 @@
-#Thu May 31 16:38:18 BRT 2018
-base.0=C\:\\Users\\enrys\\Documents\\GitHub\\EletricSkateBoardController\\Android\\BluetoothController\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Tue Jul 17 02:57:48 BRT 2018
+base.0=D\:\\EletricSkateBoardController\\AndroidApp\\BluetoothController\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

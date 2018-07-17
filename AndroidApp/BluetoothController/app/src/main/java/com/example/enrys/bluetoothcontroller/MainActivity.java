@@ -16,6 +16,7 @@ import android.graphics.drawable.Drawable;
 import android.os.Handler;
 import android.os.Message;
 import android.os.Vibrator;
+import android.support.v4.internal.view.SupportMenu;
 import android.support.v4.media.TransportMediator;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -66,7 +67,7 @@ public class MainActivity extends Settings {
     private static final int BT_ACTIVATE_REQUEST = 1;
     private static final int BT_CONNECT_REQUEST = 2;
     private static final int MESSAGE_READ = 3;
-
+    int valueProgress = 90;
 
     public static String sharedBluetoothMac;
 
@@ -81,6 +82,8 @@ public class MainActivity extends Settings {
 
     UUID My_UUID = UUID.fromString("00001101-0000-1000-8000-00805f9b34fb");
 
+
+    public static String voltage = "Voltage: ";
 
     public void LogoConectado() {
         ImageButton btn = (ImageButton)findViewById(R.id.conectionBtLogo);
@@ -110,19 +113,6 @@ public class MainActivity extends Settings {
         setContentView(R.layout.activity_main);
 
         updateBoardName();
-        //LogoDinamico();
-        /*| View.SYSTEM_UI_FLAG_FULLSCREEN
-                | View.SYSTEM_UI_FLAG_LAYOUT_STABLE
-                | View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION
-                | View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN
-                | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY;
-
-        View decorView = getWindow().getDecorView();
-        int uiOptions = View.SYSTEM_UI_FLAG_HIDE_NAVIGATION
-                | View.SYSTEM_UI_FLAG_FULLSCREEN
-                | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY;
-        decorView.setSystemUiVisibility(uiOptions);*/
-
 
         conectionBtLogo = (ImageButton)findViewById(R.id.conectionBtLogo);
         ImgLedOn = (ImageButton)findViewById(R.id.ImgLedOn) ;
@@ -136,9 +126,10 @@ public class MainActivity extends Settings {
         Velocimetro = (TextView) findViewById(R.id.Velocimetro);
         Typeface typeface = Typeface.createFromAsset(getAssets(), "fonts/CODEBold.otf");
         Velocimetro.setTypeface(typeface);
+        final Vibrator vb = (Vibrator)getSystemService(MainActivity.VIBRATOR_SERVICE);
 
 
-        final ProgressBar progressBar = (ProgressBar) findViewById(R.id.progressBar);
+        final ProgressBar battery = (ProgressBar) findViewById(R.id.progressBar);
 
 
         settingsbutton.setOnClickListener(new View.OnClickListener() {
@@ -156,6 +147,8 @@ public class MainActivity extends Settings {
         } else if (!mBluetoothAdapter.isEnabled()) {
             Intent enableBtIntent = new Intent(BluetoothAdapter.ACTION_REQUEST_ENABLE);
             startActivityForResult(enableBtIntent, BT_ACTIVATE_REQUEST);
+
+
         }
 
 
@@ -165,8 +158,7 @@ public class MainActivity extends Settings {
 
             @Override
             public void onClick(View v) {
-                Vibrator v2 = (Vibrator)getSystemService(MainActivity.VIBRATOR_SERVICE);
-                v2.vibrate(100);
+                //vb.vibrate(100);
                 if (conection){
                     //Disconect
                     try {
@@ -174,7 +166,7 @@ public class MainActivity extends Settings {
                         conection = true;
                         Toast.makeText(getApplicationContext(), "Device Desconectado : " , Toast.LENGTH_LONG).show();
                         //mudando nome do botao conecao
-                        LogoConectado();
+                        LogoDesconectado();
                         //ButtonBTConect.setText("conectar");
                     }catch(IOException erro){
                         Toast.makeText(getApplicationContext(), "Erro Desconectado : "+ erro, Toast.LENGTH_LONG).show();
@@ -193,9 +185,7 @@ public class MainActivity extends Settings {
             @Override
             public void onClick(View v) {
 
-
-                Vibrator v2 = (Vibrator)getSystemService(MainActivity.VIBRATOR_SERVICE);
-                v2.vibrate(80);
+                vb.vibrate(80);
                 if (conection){
 
                     if(flag) {
@@ -217,85 +207,84 @@ public class MainActivity extends Settings {
         mySeekBar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
             @Override
             public void onProgressChanged(SeekBar seekBar, int progress , boolean fromUser) {
-
-                /*
-
-                if (progress < 40) {
-                    seekBar.getProgressDrawable().setColorFilter(Color.BLUE, PorterDuff.Mode.SRC_IN);
-                }
-                if (progress > 40) {
-                    seekBar.getProgressDrawable().setColorFilter(Color.rgb(0,153,0), PorterDuff.Mode.SRC_IN);
-                }
-                if (progress > 100) {
-                    seekBar.getProgressDrawable().setColorFilter(Color.rgb(255,153,0), PorterDuff.Mode.SRC_IN);
-                }
-                if (progress > 120) {
-                    seekBar.getProgressDrawable().setColorFilter(Color.RED, PorterDuff.Mode.SRC_IN);
-                }*/
-
-
-                Vibrator v = (Vibrator)getSystemService(MainActivity.VIBRATOR_SERVICE);
-                int val = progress/10;
-                v.vibrate(val);
-                //textkmh.setText(""+val);
-
-                if (conection) {
-                    try {
-                        connectedThread.write(new StringBuilder(String.valueOf((progress * 1) + 30)).append("n").toString());
-                        MainActivity.oldvalue = value;
-                    } catch (Exception e) {
-                        connectedThread.write(new StringBuilder(String.valueOf((progress * 1) + 30)).append("n").toString());
-                    }
-                    if (MainActivity.oldvalue <= 90) {
-                        MainActivity.oldvalue = 90;
-                    }
-                }
+                //vb.vibrate(progress/10);
+                valueProgress = (progress * 1) + 30;
             }
-
-            @Override
-            public void onStartTrackingTouch(SeekBar seekBar) {
-            }
-
-            @Override
-            public void onStopTrackingTouch(SeekBar seekBar) {
-                seekBar.setProgress(50);
-                if (conection) {
-                    connectedThread.write(new StringBuilder(String.valueOf((40))).append("n").toString());
-                    connectedThread.write("m");
-                    //this.valueOnMove((progress * 1) + 30);
-                    //connectedThread.write(new StringBuilder(String.valueOf((progress * 1) + 30)).append("n").toString());
-                }
-            }
+            @Override   public void onStartTrackingTouch(SeekBar seekBar) {            }
+            @Override   public void onStopTrackingTouch(SeekBar seekBar) {   seekBar.setProgress(50);  }
         });
-        mHandler =  new Handler() {
+
+        final Handler handler1 = new Handler();                                          //Send String to the handler m
+        Timer timer1 = new Timer();
+        TimerTask doAsynchronousTask = new TimerTask() {
             @Override
-            public void handleMessage(Message msg) {                                    //Read data from the handler to recilve voltage
+            public void run() {
+                handler1.post(new Runnable() {
+                    public void run() {
+                        if(conection){
+                            try {
+                                connectedThread.write(new StringBuilder(String.valueOf(valueProgress)).append("n").toString());
+                            } catch (Exception e) {
+                            }
+                        } else{}
+                    }
+                });
+            }
+        };
+        timer1.schedule(doAsynchronousTask, 0, 100);
+
+        mHandler =  new Handler() {
+
+            @Override
+            public void handleMessage(Message msg) {       //Read data from the handler to recilve voltage
                 if (msg.what == MESSAGE_READ){
-                    double minVolt = 19.8;
-                    double maxVolt = 25.2;
-                    double volt;
-                    int percentage;
+                    int i = 1;
                     String recilvdata = (String) msg.obj;
                     bluetoothdata.append(recilvdata);
-                    int endinformation = bluetoothdata.indexOf("}");
-                    if (endinformation > 0){
-                        String completeData = bluetoothdata.substring(0,endinformation);
-                        int informationLeght = completeData.length();
-                        String finalData = bluetoothdata.substring(1,informationLeght);
-                        //volt = (Double.parseDouble(finalData)-minVolt);
-                        //percentage = (int) ((volt*100)/(maxVolt-minVolt));
-                        //progressBar.setProgress(percentage);
-                        textkmh.setText(finalData+"v");
-                        Log.d("ok",finalData);
-                    }
-                    bluetoothdata.delete(0, bluetoothdata.length());
+                    bluetoothdata.indexOf(recilvdata);
+                        try {
+                            int i2;
+                            voltage = recilvdata;
+
+                            float voltf = Float.parseFloat(voltage.replaceAll("v", "").replaceAll("\\s+", ""));
+                            Log.d("Voltage", String.valueOf(voltf));
+
+                            if (voltf > 11.0f) {
+                                i2 = 1;
+                            } else {
+                                i2 = 0;
+                            }
+                            if (voltf >= 30.0f) {
+                                i = 0;
+                            }
+                            if ((i & i2) != 0) {
+
+                                voltf = (float) (33.0d * (((double) voltf) - 22.2d));
+
+                                textkmh.setText("Voltage: " + voltf);
+
+
+                                battery.setProgress(Math.round(voltf));
+
+
+
+                                if (voltf < 23.0f) {
+                                    //battery.getProgressDrawable().setColorFilter(SupportMenu.CATEGORY_MASK, PorterDuff.Mode.SRC_ATOP);
+                                } else {
+                                    battery.getProgressDrawable().setColorFilter(-16711936, PorterDuff.Mode.SRC_ATOP);
+                                }
+                            }
+                        } catch (Exception e) {
+                        }
                 }
             }
         };
 
+
+
         final Handler handler = new Handler();                                          //Send String to the handler m
         Timer timer = new Timer();
-        TimerTask doAsynchronousTask = new TimerTask() {
+        TimerTask task2 = new TimerTask() {
             @Override
             public void run() {
                 handler.post(new Runnable() {
@@ -308,15 +297,16 @@ public class MainActivity extends Settings {
                 });
             }
         };
-        timer.schedule(doAsynchronousTask, 0, 1200);
-
-
+        timer.schedule(task2, 0, 400);
 
     }
 
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+
+
+
         //super.onActivityResult(requestCode, resultCode, data);
         switch (requestCode){
             case BT_ACTIVATE_REQUEST:
@@ -326,12 +316,13 @@ public class MainActivity extends Settings {
                     Toast.makeText(getApplicationContext(), "bluetooth nao ativado",Toast.LENGTH_LONG).show();
                     finish();
                 }
+
                 break;
             case BT_CONNECT_REQUEST:
                 if (resultCode == Activity.RESULT_OK){
 
                     MAC = data.getExtras().getString(DeviceList.MAC_ADRESS);
-
+                    Log.d("MACADRESS",MAC);
                     mBluetoothDevice = mBluetoothAdapter.getRemoteDevice(MAC);
                     try {
                         mBluetoothSocket = mBluetoothDevice.createRfcommSocketToServiceRecord(My_UUID);

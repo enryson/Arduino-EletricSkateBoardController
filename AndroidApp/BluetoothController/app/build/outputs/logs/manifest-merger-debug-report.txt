@@ -1,151 +1,151 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
-MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\7816bfb1ed14fc03fb70f1614d4eb5c7\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\3a6917aff29f7d8680ee095b047d048c\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\4c22b8177b3f1c8a7665ca11227bd8e3\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\0e7400ea752077df962a3a2df8f6a2a8\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:support-v4:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\712408850cb67e7619bd2775ae81aaa1\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\390a3bc68d2d0e8c819927f83accc3e1\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\cb9b4f49a023112bdbeaaf8f1635c67d\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\3730476440fc2ff028866472e37fd6cc\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\44f86161df1cc3c35e0b849b5200a79d\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:support-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\b4fea90b9224007e783ee10cea8837da\AndroidManifest.xml:17:1-27:12
-INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
+ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\bfb1d2769e14359a36f17b360cdc70fa\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\d96e9fc416278298f4864aff103667e9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\c24c25ab6e1ae73bad11c3628daf3496\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\7a7976c4b4aabbfa893504f32030077d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\25bbdb38fece7175d854e40840f89399\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\8f13e8fb338bd2c512dca0ac91dfd520\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\ffe4b899c94f932beff58185e0b8b6bd\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\39ef435616adc265e065ae182b231338\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\3cd3febc07f603db13dd3e85b61027eb\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\5f87b7ba99981cb3381cdbd92e660ef8\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
 	package
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:3:5-52
-		INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml
+		INJECTED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
-		INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml
+		INJECTED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
-		INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml
+		INJECTED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.BLUETOOTH
-ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:4:5-68
+ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:4:5-68
 	android:name
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:4:22-65
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:4:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:5:5-74
+ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:5:5-74
 	android:name
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:5:22-71
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:5:22-71
 uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:6:5-66
+ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:6:5-66
 	android:name
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:6:22-63
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:6:22-63
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:7:5-81
+ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:7:22-78
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:7:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:8:5-80
+ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:8:5-80
 	android:name
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:8:22-77
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:8:22-77
 application
-ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:11:5-32:19
-MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\7816bfb1ed14fc03fb70f1614d4eb5c7\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\7816bfb1ed14fc03fb70f1614d4eb5c7\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\3a6917aff29f7d8680ee095b047d048c\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\3a6917aff29f7d8680ee095b047d048c\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\4c22b8177b3f1c8a7665ca11227bd8e3\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\4c22b8177b3f1c8a7665ca11227bd8e3\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\0e7400ea752077df962a3a2df8f6a2a8\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\0e7400ea752077df962a3a2df8f6a2a8\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-v4:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\712408850cb67e7619bd2775ae81aaa1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\712408850cb67e7619bd2775ae81aaa1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\390a3bc68d2d0e8c819927f83accc3e1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\390a3bc68d2d0e8c819927f83accc3e1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\cb9b4f49a023112bdbeaaf8f1635c67d\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\cb9b4f49a023112bdbeaaf8f1635c67d\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\3730476440fc2ff028866472e37fd6cc\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\3730476440fc2ff028866472e37fd6cc\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\44f86161df1cc3c35e0b849b5200a79d\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\44f86161df1cc3c35e0b849b5200a79d\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\b4fea90b9224007e783ee10cea8837da\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\b4fea90b9224007e783ee10cea8837da\AndroidManifest.xml:25:5-20
+ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:11:5-32:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\bfb1d2769e14359a36f17b360cdc70fa\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\bfb1d2769e14359a36f17b360cdc70fa\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\d96e9fc416278298f4864aff103667e9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\d96e9fc416278298f4864aff103667e9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\c24c25ab6e1ae73bad11c3628daf3496\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\c24c25ab6e1ae73bad11c3628daf3496\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\7a7976c4b4aabbfa893504f32030077d\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\7a7976c4b4aabbfa893504f32030077d\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\25bbdb38fece7175d854e40840f89399\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\25bbdb38fece7175d854e40840f89399\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\8f13e8fb338bd2c512dca0ac91dfd520\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\8f13e8fb338bd2c512dca0ac91dfd520\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\ffe4b899c94f932beff58185e0b8b6bd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\ffe4b899c94f932beff58185e0b8b6bd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\39ef435616adc265e065ae182b231338\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\39ef435616adc265e065ae182b231338\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\3cd3febc07f603db13dd3e85b61027eb\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\3cd3febc07f603db13dd3e85b61027eb\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\5f87b7ba99981cb3381cdbd92e660ef8\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\5f87b7ba99981cb3381cdbd92e660ef8\AndroidManifest.xml:25:5-20
 	android:screenOrientation
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:13:9-45
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:13:9-45
 	android:supportsRtl
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:15:9-41
 	android:icon
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:14:9-43
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:14:9-43
 	android:allowBackup
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:17:9-40
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:17:9-40
 activity#com.example.enrys.bluetoothcontroller.MainActivity
-ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:19:9-24:20
+ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:19:9-24:20
 	android:screenOrientation
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:19:49-85
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:19:49-85
 	android:name
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:19:19-47
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:19:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:20:13-23:29
+ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:20:13-23:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:22:27-74
 activity#com.example.enrys.bluetoothcontroller.Settings
-ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:26:9-27:20
+ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:26:9-27:20
 	android:screenOrientation
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:26:45-81
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:26:45-81
 	android:name
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:26:19-43
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:26:19-43
 activity#com.example.enrys.bluetoothcontroller.DeviceList
-ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:29:9-31:20
+ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:29:9-31:20
 	android:label
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:30:40-66
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:30:40-66
 	android:name
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml:30:13-39
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml:30:13-39
 uses-sdk
-INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\7816bfb1ed14fc03fb70f1614d4eb5c7\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\7816bfb1ed14fc03fb70f1614d4eb5c7\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\3a6917aff29f7d8680ee095b047d048c\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\3a6917aff29f7d8680ee095b047d048c\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\4c22b8177b3f1c8a7665ca11227bd8e3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\4c22b8177b3f1c8a7665ca11227bd8e3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\0e7400ea752077df962a3a2df8f6a2a8\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\0e7400ea752077df962a3a2df8f6a2a8\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-v4:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\712408850cb67e7619bd2775ae81aaa1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\712408850cb67e7619bd2775ae81aaa1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\390a3bc68d2d0e8c819927f83accc3e1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\390a3bc68d2d0e8c819927f83accc3e1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\cb9b4f49a023112bdbeaaf8f1635c67d\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\cb9b4f49a023112bdbeaaf8f1635c67d\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\3730476440fc2ff028866472e37fd6cc\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\3730476440fc2ff028866472e37fd6cc\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\44f86161df1cc3c35e0b849b5200a79d\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\44f86161df1cc3c35e0b849b5200a79d\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\b4fea90b9224007e783ee10cea8837da\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\b4fea90b9224007e783ee10cea8837da\AndroidManifest.xml:21:5-23:58
-INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml
+INJECTED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml
+INJECTED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\bfb1d2769e14359a36f17b360cdc70fa\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\bfb1d2769e14359a36f17b360cdc70fa\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\d96e9fc416278298f4864aff103667e9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.1.aar\d96e9fc416278298f4864aff103667e9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\c24c25ab6e1ae73bad11c3628daf3496\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.0.aar\c24c25ab6e1ae73bad11c3628daf3496\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\7a7976c4b4aabbfa893504f32030077d\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.0.aar\7a7976c4b4aabbfa893504f32030077d\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\25bbdb38fece7175d854e40840f89399\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.0.aar\25bbdb38fece7175d854e40840f89399\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\8f13e8fb338bd2c512dca0ac91dfd520\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.0.aar\8f13e8fb338bd2c512dca0ac91dfd520\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\ffe4b899c94f932beff58185e0b8b6bd\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.0.aar\ffe4b899c94f932beff58185e0b8b6bd\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\39ef435616adc265e065ae182b231338\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.0.aar\39ef435616adc265e065ae182b231338\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\3cd3febc07f603db13dd3e85b61027eb\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.0.aar\3cd3febc07f603db13dd3e85b61027eb\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\5f87b7ba99981cb3381cdbd92e660ef8\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.0.aar\5f87b7ba99981cb3381cdbd92e660ef8\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml
+INJECTED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\7816bfb1ed14fc03fb70f1614d4eb5c7\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\enrys\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.0.aar\bfb1d2769e14359a36f17b360cdc70fa\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml
+		INJECTED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml
+		INJECTED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\enrys\Documents\GitHub\EletricSkateBoardController\Android\BluetoothController\app\src\main\AndroidManifest.xml
+		INJECTED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml
+		ADDED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml
+		INJECTED from D:\EletricSkateBoardController\AndroidApp\BluetoothController\app\src\main\AndroidManifest.xml
